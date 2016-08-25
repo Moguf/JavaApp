@@ -12,6 +12,10 @@
 hs_err_pid*
 
 
+!.gitkeep
+build/*
+bin/*
+
 # for me
 *.class
 *~
